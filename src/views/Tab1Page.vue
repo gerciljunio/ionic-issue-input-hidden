@@ -1,5 +1,10 @@
 <template>
   <ion-page>
+        <ion-header>
+            <ion-toolbar>
+                <ion-title>TItle</ion-title>
+            </ion-toolbar>
+        </ion-header>
         <ion-content>
             <ion-searchbar></ion-searchbar>
             <ion-card>
